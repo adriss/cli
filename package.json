@@ -1,8 +1,7 @@
 {
   "name": "adriss",
   "description": "CLI to interact with Adriss",
-  "version": "0.0.1",
-  "author": "JC Carrillo @jccarrillo",
+  "version": "0.0.2",
   "bin": {
     "adriss": "./bin/run"
   },
