@@ -6,7 +6,7 @@ Adriss CLI
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/adriss.svg)](https://npmjs.org/package/adriss)
 [![Downloads/week](https://img.shields.io/npm/dw/adriss.svg)](https://npmjs.org/package/adriss)
-[![License](https://img.shields.io/npm/l/adriss.svg)](https://github.com/jccarrillo/adriss/blob/master/package.json)
+[![License](https://img.shields.io/npm/l/adriss.svg)](https://github.com/adriss/cli/blob/master/package.json)
 
 <!-- toc -->
 * [Usage](#usage)
